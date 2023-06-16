@@ -15,7 +15,7 @@ bl SNDS_DEBUG
 adr r0, Received
 bl XWORD
 b INFINITE
-`assembly`
+```
 
 Glavni program predstavlja neskončno zanko, ki prejme niz znakov na začetku. Nato se ta niz obdela in pošlje preko FRI-SMS, ki na koncu prikaže sporočilo na lučki. Ta postopek se nenehno ponavlja, saj je program v neskončni zanki.
 
