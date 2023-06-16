@@ -405,7 +405,7 @@ ZNAKI:  .ascii ".-" @ A
         .ascii "-..."@ B 
         .byte 0,0 
         
-        .ascii "-·-·" @ C 
+        .ascii "-Â·-Â·" @ C 
         .byte 0,0 
         
         .ascii "-.." @ D 
