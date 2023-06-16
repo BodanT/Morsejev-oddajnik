@@ -6,9 +6,11 @@ Program omogoča uporabo FRI-SMS kot oddajnik Morsejeve kode. Za vzpostavitev po
 
 -SOS v Morsejevi kodi:
 
-https://github.com/BodanT/Morsejev-oddajnik/assets/126685957/28b1e04c-72f4-4c74-b967-4021fcc0ef8f
+https://github.com/BodanT/Morsejev-oddajnik/assets/126685957/d997d4c2-7bc4-4eaa-844d-82af2fd23681
 
 -SLAY v Morsejevi kodi:
 
-https://github.com/BodanT/Morsejev-oddajnik/assets/126685957/d997d4c2-7bc4-4eaa-844d-82af2fd23681
+https://github.com/BodanT/Morsejev-oddajnik/assets/126685957/28b1e04c-72f4-4c74-b967-4021fcc0ef8f
+
+
 
